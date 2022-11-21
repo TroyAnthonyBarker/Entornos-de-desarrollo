@@ -44,8 +44,18 @@
   "OpenFolderCommand": "explorer.exe",
   "TerminalCommand": "powershell.exe",
   "TerminalCommandArgs": "-noexit -command \"cd '{0}'\"",
-  "OpenDocuments": [],
-  "RecentDocuments": [],
+  "OpenDocuments": [
+    {
+      "Filename": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica2\\UD2Practica2-TroyAnthonyBarker.md",
+      "IsActive": true,
+      "LastEditorLineNumber": 26,
+      "LastImageFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica2"
+    }
+  ],
+  "RecentDocuments": [
+    "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica2\\UD2Practica2-TroyAnthonyBarker.md",
+    "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica1\\UD2-T1-IntelliJ-POO-Depuracion-01_TroyBarker.md"
+  ],
   "RecentDocumentsLength": 10,
   "RememberLastDocumentsLength": 5,
   "Images": {
@@ -141,9 +151,9 @@
     "log": "text"
   },
   "ApplicationUpdates": {
-    "LastUpdateCheck": "2022-11-11T00:00:00Z",
+    "LastUpdateCheck": "2022-11-21T00:00:00Z",
     "UpdateFrequency": 10,
-    "AccessCount": 14,
+    "AccessCount": 17,
     "FirstRun": false
   },
   "WindowPosition": {
@@ -151,11 +161,11 @@
     "Left": 20,
     "Width": 1550,
     "Height": 830,
-    "InternalPreviewWidth": 690,
+    "InternalPreviewWidth": 1189,
     "PreviewTop": 0,
     "PreviewLeft": 0,
     "PreviewHeight": 700,
-    "PreviewWidth": 1185,
+    "PreviewWidth": 1189,
     "PreviewDisplayMode": "ActivatedByMainWindow",
     "PreviewDocked": false,
     "SplitterPosition": 600,
@@ -223,6 +233,6 @@
   "LastLinkExternal": false,
   "LastUseReferenceLinks": false,
   "LastLinkFolder": null,
-  "LastFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica1",
+  "LastFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica2",
   "CommonFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\MarkdownMonsterPortable\\PortableSettings"
 }
