@@ -47,12 +47,19 @@
   "OpenDocuments": [
     {
       "Filename": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica3\\UD3-T3-INTELLIJ-JAR-1_TroyAnthonyBarker.md",
-      "IsActive": true,
-      "LastEditorLineNumber": 30,
+      "IsActive": false,
+      "LastEditorLineNumber": 0,
       "LastImageFolder": null
+    },
+    {
+      "Filename": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica4\\UD3-T4-IntelliJ-JAR-2_Troy-Anthony-Barker.md",
+      "IsActive": true,
+      "LastEditorLineNumber": 26,
+      "LastImageFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica4\\IMG"
     }
   ],
   "RecentDocuments": [
+    "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica4\\UD3-T4-IntelliJ-JAR-2_Troy-Anthony-Barker.md",
     "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica3\\UD3-T3-INTELLIJ-JAR-1_TroyAnthonyBarker.md",
     "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica2\\UD2Practica2-TroyAnthonyBarker.md",
     "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica1\\UD2-T1-IntelliJ-POO-Depuracion-01_TroyBarker.md"
@@ -152,21 +159,21 @@
     "log": "text"
   },
   "ApplicationUpdates": {
-    "LastUpdateCheck": "2022-11-21T00:00:00Z",
+    "LastUpdateCheck": "2022-12-04T00:00:00Z",
     "UpdateFrequency": 10,
-    "AccessCount": 21,
+    "AccessCount": 23,
     "FirstRun": false
   },
   "WindowPosition": {
-    "Top": -1060,
+    "Top": 20,
     "Left": 20,
-    "Width": 1934,
-    "Height": 1046,
+    "Width": 1550,
+    "Height": 830,
     "InternalPreviewWidth": 949,
     "PreviewTop": 0,
     "PreviewLeft": 0,
     "PreviewHeight": 700,
-    "PreviewWidth": 999,
+    "PreviewWidth": 949,
     "PreviewDisplayMode": "ActivatedByMainWindow",
     "PreviewDocked": false,
     "SplitterPosition": 600,
@@ -234,6 +241,6 @@
   "LastLinkExternal": false,
   "LastUseReferenceLinks": false,
   "LastLinkFolder": null,
-  "LastFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica3",
+  "LastFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\UD2 - Herramientas de Desarrollo\\UD2Practica4",
   "CommonFolder": "E:\\DAM\\1º DAM\\Entornos de desarrollo\\MarkdownMonsterPortable\\PortableSettings"
 }
